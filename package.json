@@ -1,0 +1,24 @@
+{
+  "name": "expown",
+  "version": "1.0.0",
+  "description": "Expown is a node app that leverages express to host markdown files.",
+  "main": "index.js",
+    "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.14.1",
+    "showdown": "^1.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://krisboud@bitbucket.org/krisboud/marknode.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Kris Boudreau",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/krisboud/marknode#readme"
+}
